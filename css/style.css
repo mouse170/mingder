@@ -10,14 +10,14 @@ body {
 	top: -1%;
 	background: white;
 	background-size: 110% 110%;
-	background-image: url(img/header.JPG);
+	background-image: url(../img/header.JPG);
 }
 
 #Logo {
 	position: relative;
 	width: 20%;
 	height: 80%;
-	background-image:url(img/Logo.jpg);
+	background-image:url(../img/Logo.jpg);
 	background-size: 100% 100%;
 }
 
@@ -95,7 +95,7 @@ body {
 	top: -92%;
 	left: 21.5%;
 	border: 5px solid green;
-	background-image :url(img/main_background.jpg);
+	background-image :url(../img/main_background.jpg);
 }
 
 #main h1{
